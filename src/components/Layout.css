@@ -1,0 +1,25 @@
+/* Layout.css */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full viewport height */
+}
+
+.main-content {
+  flex-grow: 1; /* Fills the remaining space, pushing footer to the bottom */
+  padding-top: 50px;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding-top: 10px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}

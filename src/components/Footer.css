@@ -1,0 +1,19 @@
+/* Footer.css */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+.progress-container {
+  display: flex;
+  align-items: center;
+}
+
+progress {
+  width: 150px;
+  height: 20px;
+  margin-left: 10px;
+}
