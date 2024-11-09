@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minebytetest/static/css/main.bab36a2e.css",
+    "main.js": "/minebytetest/static/js/main.814ba049.js",
+    "static/js/453.f1aebbdd.chunk.js": "/minebytetest/static/js/453.f1aebbdd.chunk.js",
+    "index.html": "/minebytetest/index.html",
+    "main.bab36a2e.css.map": "/minebytetest/static/css/main.bab36a2e.css.map",
+    "main.814ba049.js.map": "/minebytetest/static/js/main.814ba049.js.map",
+    "453.f1aebbdd.chunk.js.map": "/minebytetest/static/js/453.f1aebbdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab36a2e.css",
+    "static/js/main.814ba049.js"
+  ]
+}
